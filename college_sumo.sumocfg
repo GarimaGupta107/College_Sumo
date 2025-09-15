@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+    <input>
+        <!-- Network file -->
+        <net-file value="college_sumo.net.xml"/>
+
+        <!-- Routes file -->
+        <route-files value="synthetic_routes.rou.xml"/>
+    </input>
+
+    <time>
+        <!-- Simulation runs for 1 hour -->
+        <begin value="0"/>
+        <end value="3600"/>
+        <step-length value="1.0"/>
+    </time>
+
+    <report>
+        <verbose value="true"/>
+        <no-step-log value="true"/>
+    </report>
+</configuration>
