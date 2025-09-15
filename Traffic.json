@@ -1,0 +1,3365 @@
+{
+    "00:00:00 - 00:00:05": {
+        "vehicle_counts": {
+            "truck": 10,
+            "car": 15,
+            "bus": 4
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "truck_2",
+                "type": "truck",
+                "lane": "E_0_1",
+                "depart": 0.0
+            },
+            {
+                "vehicle_id": "truck_5",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 0.0
+            },
+            {
+                "vehicle_id": "car_6",
+                "type": "car",
+                "lane": "W_1_2",
+                "depart": 0.0
+            },
+            {
+                "vehicle_id": "car_7",
+                "type": "car",
+                "lane": "E_0_3",
+                "depart": 0.0
+            },
+            {
+                "vehicle_id": "car_10",
+                "type": "car",
+                "lane": "W_1_2",
+                "depart": 0.1
+            },
+            {
+                "vehicle_id": "car_25",
+                "type": "car",
+                "lane": "E_0_2",
+                "depart": 0.33
+            },
+            {
+                "vehicle_id": "truck_10",
+                "type": "truck",
+                "lane": "W_1_2",
+                "depart": 0.5
+            },
+            {
+                "vehicle_id": "car_49",
+                "type": "car",
+                "lane": "W_1_2",
+                "depart": 0.83
+            },
+            {
+                "vehicle_id": "car_51",
+                "type": "car",
+                "lane": "E_0_1",
+                "depart": 0.87
+            },
+            {
+                "vehicle_id": "car_56",
+                "type": "car",
+                "lane": "E_0_2",
+                "depart": 0.93
+            },
+            {
+                "vehicle_id": "car_61",
+                "type": "car",
+                "lane": "W_1_2",
+                "depart": 1.07
+            },
+            {
+                "vehicle_id": "bus_56",
+                "type": "bus",
+                "lane": "E_0_2",
+                "depart": 1.07
+            },
+            {
+                "vehicle_id": "bus_49",
+                "type": "bus",
+                "lane": "W_1_2",
+                "depart": 1.33
+            },
+            {
+                "vehicle_id": "car_84",
+                "type": "car",
+                "lane": "N_1_0",
+                "depart": 1.47
+            },
+            {
+                "vehicle_id": "truck_96",
+                "type": "truck",
+                "lane": "E_0_1",
+                "depart": 1.77
+            },
+            {
+                "vehicle_id": "truck_56",
+                "type": "truck",
+                "lane": "E_0_2",
+                "depart": 1.8
+            },
+            {
+                "vehicle_id": "car_104",
+                "type": "car",
+                "lane": "S_1_0",
+                "depart": 1.97
+            },
+            {
+                "vehicle_id": "truck_106",
+                "type": "truck",
+                "lane": "W_0_0",
+                "depart": 2.07
+            },
+            {
+                "vehicle_id": "truck_127",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 2.47
+            },
+            {
+                "vehicle_id": "car_128",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 2.5
+            },
+            {
+                "vehicle_id": "car_127",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 2.53
+            },
+            {
+                "vehicle_id": "truck_128",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 2.67
+            },
+            {
+                "vehicle_id": "car_146",
+                "type": "car",
+                "lane": "N_1",
+                "depart": 3.03
+            },
+            {
+                "vehicle_id": "car_161",
+                "type": "car",
+                "lane": "W_1_2",
+                "depart": 3.4
+            },
+            {
+                "vehicle_id": "bus_10",
+                "type": "bus",
+                "lane": "W_1_2",
+                "depart": 4.73
+            },
+            {
+                "vehicle_id": "bus_205",
+                "type": "bus",
+                "lane": "E_0_2",
+                "depart": 4.77
+            },
+            {
+                "vehicle_id": "car_206",
+                "type": "car",
+                "lane": "E_0_1",
+                "depart": 4.77
+            },
+            {
+                "vehicle_id": "truck_205",
+                "type": "truck",
+                "lane": "E_0_2",
+                "depart": 4.8
+            },
+            {
+                "vehicle_id": "truck_49",
+                "type": "truck",
+                "lane": "W_1_2",
+                "depart": 4.87
+            }
+        ]
+    },
+    "00:00:05 - 00:00:10": {
+        "vehicle_counts": {
+            "truck": 6,
+            "car": 4,
+            "bus": 1
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "truck_146",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 5.43
+            },
+            {
+                "vehicle_id": "car_2",
+                "type": "car",
+                "lane": "E_0_1",
+                "depart": 5.7
+            },
+            {
+                "vehicle_id": "truck_1",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 6.4
+            },
+            {
+                "vehicle_id": "truck_287",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 6.77
+            },
+            {
+                "vehicle_id": "truck_330",
+                "type": "truck",
+                "lane": "E_0_1",
+                "depart": 7.83
+            },
+            {
+                "vehicle_id": "car_332",
+                "type": "car",
+                "lane": "N_1_0",
+                "depart": 7.9
+            },
+            {
+                "vehicle_id": "truck_369",
+                "type": "truck",
+                "lane": "E_0_1",
+                "depart": 8.4
+            },
+            {
+                "vehicle_id": "bus_388",
+                "type": "bus",
+                "lane": "I_1",
+                "depart": 9.13
+            },
+            {
+                "vehicle_id": "car_413",
+                "type": "car",
+                "lane": "E_0_2",
+                "depart": 9.2
+            },
+            {
+                "vehicle_id": "truck_414",
+                "type": "truck",
+                "lane": "E_0_2",
+                "depart": 9.2
+            },
+            {
+                "vehicle_id": "car_388",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 9.63
+            }
+        ]
+    },
+    "00:00:10 - 00:00:15": {
+        "vehicle_counts": {
+            "car": 6,
+            "truck": 3,
+            "bus": 4
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "car_440",
+                "type": "car",
+                "lane": "E_0_1",
+                "depart": 10.3
+            },
+            {
+                "vehicle_id": "truck_479",
+                "type": "truck",
+                "lane": "E_0_1",
+                "depart": 11.1
+            },
+            {
+                "vehicle_id": "truck_492",
+                "type": "truck",
+                "lane": "E_0_1",
+                "depart": 11.3
+            },
+            {
+                "vehicle_id": "bus_492",
+                "type": "bus",
+                "lane": "E_0_2",
+                "depart": 11.33
+            },
+            {
+                "vehicle_id": "car_509",
+                "type": "car",
+                "lane": "N_1_0",
+                "depart": 11.77
+            },
+            {
+                "vehicle_id": "bus_515",
+                "type": "bus",
+                "lane": "W_1_2",
+                "depart": 12.63
+            },
+            {
+                "vehicle_id": "bus_479",
+                "type": "bus",
+                "lane": "E_0_1",
+                "depart": 13.0
+            },
+            {
+                "vehicle_id": "car_575",
+                "type": "car",
+                "lane": "E_0_3",
+                "depart": 13.03
+            },
+            {
+                "vehicle_id": "car_597",
+                "type": "car",
+                "lane": "E_0_2",
+                "depart": 13.37
+            },
+            {
+                "vehicle_id": "car_604",
+                "type": "car",
+                "lane": "N_1_0",
+                "depart": 13.4
+            },
+            {
+                "vehicle_id": "truck_607",
+                "type": "truck",
+                "lane": "E_0_2",
+                "depart": 13.43
+            },
+            {
+                "vehicle_id": "bus_607",
+                "type": "bus",
+                "lane": "E_0_1",
+                "depart": 13.73
+            },
+            {
+                "vehicle_id": "car_521",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 14.33
+            }
+        ]
+    },
+    "00:00:15 - 00:00:20": {
+        "vehicle_counts": {
+            "car": 10,
+            "truck": 4,
+            "bus": 3
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "car_703",
+                "type": "car",
+                "lane": "N_1_0",
+                "depart": 15.07
+            },
+            {
+                "vehicle_id": "car_714",
+                "type": "car",
+                "lane": "E_0_1",
+                "depart": 15.33
+            },
+            {
+                "vehicle_id": "car_784",
+                "type": "car",
+                "lane": "W_1_3",
+                "depart": 16.93
+            },
+            {
+                "vehicle_id": "truck_805",
+                "type": "truck",
+                "lane": "E_0_1",
+                "depart": 17.27
+            },
+            {
+                "vehicle_id": "bus_807",
+                "type": "bus",
+                "lane": "E_0_2",
+                "depart": 17.33
+            },
+            {
+                "vehicle_id": "car_817",
+                "type": "car",
+                "lane": "E_0_2",
+                "depart": 17.6
+            },
+            {
+                "vehicle_id": "car_822",
+                "type": "car",
+                "lane": "E_0_1",
+                "depart": 17.67
+            },
+            {
+                "vehicle_id": "car_805",
+                "type": "car",
+                "lane": "E_0_1",
+                "depart": 18.23
+            },
+            {
+                "vehicle_id": "car_850",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 18.5
+            },
+            {
+                "vehicle_id": "truck_817",
+                "type": "truck",
+                "lane": "E_0_2",
+                "depart": 18.57
+            },
+            {
+                "vehicle_id": "truck_460",
+                "type": "truck",
+                "lane": "W_1_3",
+                "depart": 18.63
+            },
+            {
+                "vehicle_id": "bus_460",
+                "type": "bus",
+                "lane": "W_1_3",
+                "depart": 18.83
+            },
+            {
+                "vehicle_id": "car_884",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 18.83
+            },
+            {
+                "vehicle_id": "car_885",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 18.83
+            },
+            {
+                "vehicle_id": "car_904",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 19.17
+            },
+            {
+                "vehicle_id": "bus_817",
+                "type": "bus",
+                "lane": "I_1",
+                "depart": 19.43
+            },
+            {
+                "vehicle_id": "truck_885",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 19.57
+            }
+        ]
+    },
+    "00:00:20 - 00:00:25": {
+        "vehicle_counts": {
+            "car": 23,
+            "truck": 8
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "car_972",
+                "type": "car",
+                "lane": "E_0_1",
+                "depart": 20.23
+            },
+            {
+                "vehicle_id": "car_976",
+                "type": "car",
+                "lane": "W_1_3",
+                "depart": 20.3
+            },
+            {
+                "vehicle_id": "car_978",
+                "type": "car",
+                "lane": "N_1_0",
+                "depart": 20.3
+            },
+            {
+                "vehicle_id": "truck_972",
+                "type": "truck",
+                "lane": "E_0_1",
+                "depart": 20.4
+            },
+            {
+                "vehicle_id": "car_989",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 20.47
+            },
+            {
+                "vehicle_id": "truck_989",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 20.57
+            },
+            {
+                "vehicle_id": "car_998",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 20.7
+            },
+            {
+                "vehicle_id": "car_1020",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 21.0
+            },
+            {
+                "vehicle_id": "truck_807",
+                "type": "truck",
+                "lane": "E_0_2",
+                "depart": 21.07
+            },
+            {
+                "vehicle_id": "car_1028",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 21.1
+            },
+            {
+                "vehicle_id": "car_1046",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 21.23
+            },
+            {
+                "vehicle_id": "car_1060",
+                "type": "car",
+                "lane": "N_0",
+                "depart": 21.43
+            },
+            {
+                "vehicle_id": "car_1061",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 21.47
+            },
+            {
+                "vehicle_id": "car_1108",
+                "type": "car",
+                "lane": "N_1_0",
+                "depart": 22.23
+            },
+            {
+                "vehicle_id": "truck_1117",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 22.43
+            },
+            {
+                "vehicle_id": "car_1160",
+                "type": "car",
+                "lane": "W_2",
+                "depart": 23.1
+            },
+            {
+                "vehicle_id": "car_1169",
+                "type": "car",
+                "lane": "N_1_0",
+                "depart": 23.2
+            },
+            {
+                "vehicle_id": "car_1178",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 23.3
+            },
+            {
+                "vehicle_id": "truck_1183",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 23.37
+            },
+            {
+                "vehicle_id": "car_1216",
+                "type": "car",
+                "lane": "N_1",
+                "depart": 23.97
+            },
+            {
+                "vehicle_id": "car_1217",
+                "type": "car",
+                "lane": "N_1_0",
+                "depart": 23.97
+            },
+            {
+                "vehicle_id": "car_1218",
+                "type": "car",
+                "lane": "W_2",
+                "depart": 23.97
+            },
+            {
+                "vehicle_id": "car_1220",
+                "type": "car",
+                "lane": "E_0_2",
+                "depart": 23.97
+            },
+            {
+                "vehicle_id": "truck_1218",
+                "type": "truck",
+                "lane": "W_2",
+                "depart": 24.0
+            },
+            {
+                "vehicle_id": "car_1164",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 24.03
+            },
+            {
+                "vehicle_id": "car_1230",
+                "type": "car",
+                "lane": "W_0_0",
+                "depart": 24.17
+            },
+            {
+                "vehicle_id": "truck_1217",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 24.23
+            },
+            {
+                "vehicle_id": "car_1252",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 24.5
+            },
+            {
+                "vehicle_id": "car_1259",
+                "type": "car",
+                "lane": "E_1_1",
+                "depart": 24.63
+            },
+            {
+                "vehicle_id": "truck_1269",
+                "type": "truck",
+                "lane": "E_1_1",
+                "depart": 24.77
+            },
+            {
+                "vehicle_id": "car_1269",
+                "type": "car",
+                "lane": "E_1_1",
+                "depart": 24.8
+            }
+        ]
+    },
+    "00:00:25 - 00:00:30": {
+        "vehicle_counts": {
+            "bus": 9,
+            "car": 15,
+            "truck": 14
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "bus_1295",
+                "type": "bus",
+                "lane": "I_1",
+                "depart": 25.23
+            },
+            {
+                "vehicle_id": "car_1315",
+                "type": "car",
+                "lane": "S_0",
+                "depart": 25.5
+            },
+            {
+                "vehicle_id": "car_1318",
+                "type": "car",
+                "lane": "E_1_2",
+                "depart": 25.57
+            },
+            {
+                "vehicle_id": "truck_1384",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 26.47
+            },
+            {
+                "vehicle_id": "bus_1390",
+                "type": "bus",
+                "lane": "I_1",
+                "depart": 26.6
+            },
+            {
+                "vehicle_id": "car_1401",
+                "type": "car",
+                "lane": "W_1_3",
+                "depart": 26.77
+            },
+            {
+                "vehicle_id": "car_1430",
+                "type": "car",
+                "lane": "E_0_1",
+                "depart": 27.2
+            },
+            {
+                "vehicle_id": "truck_1444",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 27.3
+            },
+            {
+                "vehicle_id": "bus_1444",
+                "type": "bus",
+                "lane": "I_1",
+                "depart": 27.33
+            },
+            {
+                "vehicle_id": "car_1450",
+                "type": "car",
+                "lane": "E_0_2",
+                "depart": 27.37
+            },
+            {
+                "vehicle_id": "bus_1477",
+                "type": "bus",
+                "lane": "I_1",
+                "depart": 27.57
+            },
+            {
+                "vehicle_id": "truck_1252",
+                "type": "truck",
+                "lane": "W_0_0",
+                "depart": 27.63
+            },
+            {
+                "vehicle_id": "bus_1498",
+                "type": "bus",
+                "lane": "I_1",
+                "depart": 27.87
+            },
+            {
+                "vehicle_id": "truck_1500",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 27.87
+            },
+            {
+                "vehicle_id": "bus_1500",
+                "type": "bus",
+                "lane": "I_1",
+                "depart": 27.9
+            },
+            {
+                "vehicle_id": "bus_1516",
+                "type": "bus",
+                "lane": "I_1",
+                "depart": 28.03
+            },
+            {
+                "vehicle_id": "truck_822",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 28.1
+            },
+            {
+                "vehicle_id": "truck_1516",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 28.23
+            },
+            {
+                "vehicle_id": "truck_1430",
+                "type": "truck",
+                "lane": "E_0_1",
+                "depart": 28.4
+            },
+            {
+                "vehicle_id": "car_1564",
+                "type": "car",
+                "lane": "N_1_0",
+                "depart": 28.43
+            },
+            {
+                "vehicle_id": "car_1565",
+                "type": "car",
+                "lane": "E_0_1",
+                "depart": 28.43
+            },
+            {
+                "vehicle_id": "car_1572",
+                "type": "car",
+                "lane": "E_0_0",
+                "depart": 28.47
+            },
+            {
+                "vehicle_id": "car_1588",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 28.6
+            },
+            {
+                "vehicle_id": "bus_1593",
+                "type": "bus",
+                "lane": "I_1",
+                "depart": 28.63
+            },
+            {
+                "vehicle_id": "truck_1498",
+                "type": "truck",
+                "lane": "W_0_0",
+                "depart": 28.7
+            },
+            {
+                "vehicle_id": "car_1498",
+                "type": "car",
+                "lane": "W_0_0",
+                "depart": 28.77
+            },
+            {
+                "vehicle_id": "bus_1613",
+                "type": "bus",
+                "lane": "W_0_0",
+                "depart": 28.77
+            },
+            {
+                "vehicle_id": "car_1613",
+                "type": "car",
+                "lane": "W_0_0",
+                "depart": 28.83
+            },
+            {
+                "vehicle_id": "truck_1627",
+                "type": "truck",
+                "lane": "E_0_0",
+                "depart": 28.87
+            },
+            {
+                "vehicle_id": "truck_1641",
+                "type": "truck",
+                "lane": "E_0_0",
+                "depart": 28.97
+            },
+            {
+                "vehicle_id": "car_1689",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 29.37
+            },
+            {
+                "vehicle_id": "car_1691",
+                "type": "car",
+                "lane": "S_0",
+                "depart": 29.4
+            },
+            {
+                "vehicle_id": "truck_1692",
+                "type": "truck",
+                "lane": "W_0_0",
+                "depart": 29.4
+            },
+            {
+                "vehicle_id": "truck_1702",
+                "type": "truck",
+                "lane": "E_1_0",
+                "depart": 29.6
+            },
+            {
+                "vehicle_id": "car_1692",
+                "type": "car",
+                "lane": "W_0_0",
+                "depart": 29.7
+            },
+            {
+                "vehicle_id": "car_1702",
+                "type": "car",
+                "lane": "E_1_0",
+                "depart": 29.7
+            },
+            {
+                "vehicle_id": "truck_1730",
+                "type": "truck",
+                "lane": "E_1_2",
+                "depart": 29.9
+            },
+            {
+                "vehicle_id": "truck_1572",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 29.97
+            }
+        ]
+    },
+    "00:00:30 - 00:00:35": {
+        "vehicle_counts": {
+            "car": 14,
+            "truck": 5,
+            "bus": 1
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "car_1295",
+                "type": "car",
+                "lane": "E_1_2",
+                "depart": 30.13
+            },
+            {
+                "vehicle_id": "car_1783",
+                "type": "car",
+                "lane": "E_0_1",
+                "depart": 30.43
+            },
+            {
+                "vehicle_id": "truck_1783",
+                "type": "truck",
+                "lane": "E_0_1",
+                "depart": 30.57
+            },
+            {
+                "vehicle_id": "car_1809",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 30.83
+            },
+            {
+                "vehicle_id": "truck_1133",
+                "type": "truck",
+                "lane": "W_1_3",
+                "depart": 30.9
+            },
+            {
+                "vehicle_id": "truck_1689",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 30.97
+            },
+            {
+                "vehicle_id": "car_1826",
+                "type": "car",
+                "lane": "E_1_2",
+                "depart": 31.03
+            },
+            {
+                "vehicle_id": "car_1818",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 31.17
+            },
+            {
+                "vehicle_id": "bus_1840",
+                "type": "bus",
+                "lane": "E_0_1",
+                "depart": 31.17
+            },
+            {
+                "vehicle_id": "car_1841",
+                "type": "car",
+                "lane": "W_2",
+                "depart": 31.23
+            },
+            {
+                "vehicle_id": "car_1857",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 31.4
+            },
+            {
+                "vehicle_id": "car_1863",
+                "type": "car",
+                "lane": "E_1_0",
+                "depart": 31.43
+            },
+            {
+                "vehicle_id": "truck_1841",
+                "type": "truck",
+                "lane": "W_2",
+                "depart": 31.5
+            },
+            {
+                "vehicle_id": "car_1893",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 31.93
+            },
+            {
+                "vehicle_id": "car_1932",
+                "type": "car",
+                "lane": "W_1_3",
+                "depart": 32.4
+            },
+            {
+                "vehicle_id": "truck_1863",
+                "type": "truck",
+                "lane": "E_1_0",
+                "depart": 32.63
+            },
+            {
+                "vehicle_id": "car_1976",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 33.37
+            },
+            {
+                "vehicle_id": "car_1977",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 33.4
+            },
+            {
+                "vehicle_id": "car_1981",
+                "type": "car",
+                "lane": "S_0",
+                "depart": 33.57
+            },
+            {
+                "vehicle_id": "car_1995",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 33.93
+            }
+        ]
+    },
+    "00:00:35 - 00:00:40": {
+        "vehicle_counts": {
+            "truck": 5,
+            "car": 5,
+            "bus": 1
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "truck_1932",
+                "type": "truck",
+                "lane": "W_1_3",
+                "depart": 35.57
+            },
+            {
+                "vehicle_id": "truck_1401",
+                "type": "truck",
+                "lane": "W_1_3",
+                "depart": 37.07
+            },
+            {
+                "vehicle_id": "car_2114",
+                "type": "car",
+                "lane": "W_1_3",
+                "depart": 37.23
+            },
+            {
+                "vehicle_id": "truck_2114",
+                "type": "truck",
+                "lane": "W_1_3",
+                "depart": 37.27
+            },
+            {
+                "vehicle_id": "car_2125",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 37.53
+            },
+            {
+                "vehicle_id": "bus_2151",
+                "type": "bus",
+                "lane": "E_0_0",
+                "depart": 38.33
+            },
+            {
+                "vehicle_id": "car_2162",
+                "type": "car",
+                "lane": "N_2",
+                "depart": 38.57
+            },
+            {
+                "vehicle_id": "car_2198",
+                "type": "car",
+                "lane": "W_1_3",
+                "depart": 39.4
+            },
+            {
+                "vehicle_id": "car_2201",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 39.43
+            },
+            {
+                "vehicle_id": "truck_2201",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 39.47
+            },
+            {
+                "vehicle_id": "truck_2198",
+                "type": "truck",
+                "lane": "W_1_3",
+                "depart": 39.6
+            }
+        ]
+    },
+    "00:00:40 - 00:00:45": {
+        "vehicle_counts": {
+            "bus": 1,
+            "truck": 14,
+            "car": 18
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "bus_2229",
+                "type": "bus",
+                "lane": "E_0_0",
+                "depart": 40.13
+            },
+            {
+                "vehicle_id": "truck_2242",
+                "type": "truck",
+                "lane": "W_1_3",
+                "depart": 40.4
+            },
+            {
+                "vehicle_id": "car_2242",
+                "type": "car",
+                "lane": "W_1_3",
+                "depart": 40.43
+            },
+            {
+                "vehicle_id": "car_2257",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 40.67
+            },
+            {
+                "vehicle_id": "car_2282",
+                "type": "car",
+                "lane": "W_1_3",
+                "depart": 41.13
+            },
+            {
+                "vehicle_id": "truck_1060",
+                "type": "truck",
+                "lane": "N_0",
+                "depart": 41.37
+            },
+            {
+                "vehicle_id": "car_2331",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 41.67
+            },
+            {
+                "vehicle_id": "car_2348",
+                "type": "car",
+                "lane": "N_1",
+                "depart": 41.8
+            },
+            {
+                "vehicle_id": "car_2351",
+                "type": "car",
+                "lane": "W_1_3",
+                "depart": 41.83
+            },
+            {
+                "vehicle_id": "car_2362",
+                "type": "car",
+                "lane": "E_0_1",
+                "depart": 42.23
+            },
+            {
+                "vehicle_id": "car_2364",
+                "type": "car",
+                "lane": "W_1_3",
+                "depart": 42.27
+            },
+            {
+                "vehicle_id": "truck_2362",
+                "type": "truck",
+                "lane": "E_0_1",
+                "depart": 42.5
+            },
+            {
+                "vehicle_id": "car_2385",
+                "type": "car",
+                "lane": "N_0",
+                "depart": 42.5
+            },
+            {
+                "vehicle_id": "truck_2351",
+                "type": "truck",
+                "lane": "W_1_3",
+                "depart": 42.6
+            },
+            {
+                "vehicle_id": "car_2417",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 43.03
+            },
+            {
+                "vehicle_id": "car_2425",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 43.13
+            },
+            {
+                "vehicle_id": "truck_2435",
+                "type": "truck",
+                "lane": "E_0_1",
+                "depart": 43.27
+            },
+            {
+                "vehicle_id": "car_2438",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 43.27
+            },
+            {
+                "vehicle_id": "truck_2447",
+                "type": "truck",
+                "lane": "W_1_3",
+                "depart": 43.33
+            },
+            {
+                "vehicle_id": "truck_2457",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 43.4
+            },
+            {
+                "vehicle_id": "car_2435",
+                "type": "car",
+                "lane": "E_0_1",
+                "depart": 43.53
+            },
+            {
+                "vehicle_id": "truck_2478",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 43.6
+            },
+            {
+                "vehicle_id": "car_2482",
+                "type": "car",
+                "lane": "S_0",
+                "depart": 43.63
+            },
+            {
+                "vehicle_id": "car_2478",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 43.67
+            },
+            {
+                "vehicle_id": "car_2501",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 43.77
+            },
+            {
+                "vehicle_id": "truck_2526",
+                "type": "truck",
+                "lane": "W_1_3",
+                "depart": 44.2
+            },
+            {
+                "vehicle_id": "truck_1216",
+                "type": "truck",
+                "lane": "N_0",
+                "depart": 44.23
+            },
+            {
+                "vehicle_id": "truck_2438",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 44.4
+            },
+            {
+                "vehicle_id": "car_2545",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 44.53
+            },
+            {
+                "vehicle_id": "truck_2552",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 44.63
+            },
+            {
+                "vehicle_id": "car_2554",
+                "type": "car",
+                "lane": "N_0",
+                "depart": 44.67
+            },
+            {
+                "vehicle_id": "truck_2554",
+                "type": "truck",
+                "lane": "N_0",
+                "depart": 44.7
+            },
+            {
+                "vehicle_id": "truck_2561",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 44.83
+            }
+        ]
+    },
+    "00:00:45 - 00:00:50": {
+        "vehicle_counts": {
+            "truck": 11,
+            "car": 14,
+            "bus": 1
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "truck_2598",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 45.57
+            },
+            {
+                "vehicle_id": "car_2613",
+                "type": "car",
+                "lane": "W_1_3",
+                "depart": 45.77
+            },
+            {
+                "vehicle_id": "car_2576",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 45.83
+            },
+            {
+                "vehicle_id": "car_2617",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 45.83
+            },
+            {
+                "vehicle_id": "truck_2653",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 46.2
+            },
+            {
+                "vehicle_id": "truck_2617",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 46.27
+            },
+            {
+                "vehicle_id": "truck_2662",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 46.37
+            },
+            {
+                "vehicle_id": "car_2669",
+                "type": "car",
+                "lane": "E_0_2",
+                "depart": 46.47
+            },
+            {
+                "vehicle_id": "car_2675",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 46.57
+            },
+            {
+                "vehicle_id": "truck_2669",
+                "type": "truck",
+                "lane": "E_0_2",
+                "depart": 46.73
+            },
+            {
+                "vehicle_id": "car_2697",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 46.83
+            },
+            {
+                "vehicle_id": "car_2698",
+                "type": "car",
+                "lane": "E_0_3",
+                "depart": 46.83
+            },
+            {
+                "vehicle_id": "truck_2697",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 47.37
+            },
+            {
+                "vehicle_id": "car_2768",
+                "type": "car",
+                "lane": "S_1_0",
+                "depart": 47.97
+            },
+            {
+                "vehicle_id": "truck_2768",
+                "type": "truck",
+                "lane": "S_1_0",
+                "depart": 48.8
+            },
+            {
+                "vehicle_id": "car_2826",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 48.87
+            },
+            {
+                "vehicle_id": "truck_2826",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 48.9
+            },
+            {
+                "vehicle_id": "truck_2834",
+                "type": "truck",
+                "lane": "E_1_1",
+                "depart": 48.93
+            },
+            {
+                "vehicle_id": "car_2834",
+                "type": "car",
+                "lane": "E_1_1",
+                "depart": 49.03
+            },
+            {
+                "vehicle_id": "car_2853",
+                "type": "car",
+                "lane": "E_1_1",
+                "depart": 49.17
+            },
+            {
+                "vehicle_id": "bus_2697",
+                "type": "bus",
+                "lane": "S_1_0",
+                "depart": 49.53
+            },
+            {
+                "vehicle_id": "truck_2886",
+                "type": "truck",
+                "lane": "E_1_1",
+                "depart": 49.73
+            },
+            {
+                "vehicle_id": "car_2886",
+                "type": "car",
+                "lane": "E_1_1",
+                "depart": 49.77
+            },
+            {
+                "vehicle_id": "car_2891",
+                "type": "car",
+                "lane": "E_0_2",
+                "depart": 49.83
+            },
+            {
+                "vehicle_id": "truck_2895",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 49.93
+            },
+            {
+                "vehicle_id": "car_2895",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 49.97
+            }
+        ]
+    },
+    "00:00:50 - 00:00:55": {
+        "vehicle_counts": {
+            "car": 5,
+            "truck": 3
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "car_2916",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 50.67
+            },
+            {
+                "vehicle_id": "car_2917",
+                "type": "car",
+                "lane": "S_0",
+                "depart": 50.67
+            },
+            {
+                "vehicle_id": "truck_2891",
+                "type": "truck",
+                "lane": "E_0_2",
+                "depart": 50.8
+            },
+            {
+                "vehicle_id": "truck_2927",
+                "type": "truck",
+                "lane": "S_1_0",
+                "depart": 50.9
+            },
+            {
+                "vehicle_id": "car_2934",
+                "type": "car",
+                "lane": "E_0_2",
+                "depart": 51.03
+            },
+            {
+                "vehicle_id": "car_2992",
+                "type": "car",
+                "lane": "N_1",
+                "depart": 52.53
+            },
+            {
+                "vehicle_id": "truck_3027",
+                "type": "truck",
+                "lane": "W_1_2",
+                "depart": 53.93
+            },
+            {
+                "vehicle_id": "car_3039",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 54.1
+            }
+        ]
+    },
+    "00:00:55 - 00:01:00": {
+        "vehicle_counts": {
+            "car": 8,
+            "bus": 5,
+            "truck": 6
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "car_3088",
+                "type": "car",
+                "lane": "E_0_2",
+                "depart": 55.07
+            },
+            {
+                "vehicle_id": "bus_3088",
+                "type": "bus",
+                "lane": "E_0_2",
+                "depart": 55.1
+            },
+            {
+                "vehicle_id": "truck_3088",
+                "type": "truck",
+                "lane": "E_0_2",
+                "depart": 55.13
+            },
+            {
+                "vehicle_id": "truck_3029",
+                "type": "truck",
+                "lane": "S_0",
+                "depart": 55.33
+            },
+            {
+                "vehicle_id": "truck_3104",
+                "type": "truck",
+                "lane": "S_0",
+                "depart": 55.37
+            },
+            {
+                "vehicle_id": "car_3109",
+                "type": "car",
+                "lane": "E_0_2",
+                "depart": 55.43
+            },
+            {
+                "vehicle_id": "bus_3109",
+                "type": "bus",
+                "lane": "E_0_2",
+                "depart": 55.47
+            },
+            {
+                "vehicle_id": "bus_3126",
+                "type": "bus",
+                "lane": "E_0_2",
+                "depart": 55.83
+            },
+            {
+                "vehicle_id": "car_3126",
+                "type": "car",
+                "lane": "E_0_2",
+                "depart": 55.9
+            },
+            {
+                "vehicle_id": "car_3173",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 56.9
+            },
+            {
+                "vehicle_id": "bus_3197",
+                "type": "bus",
+                "lane": "E_0_1",
+                "depart": 57.73
+            },
+            {
+                "vehicle_id": "car_3212",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 58.03
+            },
+            {
+                "vehicle_id": "truck_2996",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 58.13
+            },
+            {
+                "vehicle_id": "car_3223",
+                "type": "car",
+                "lane": "E_0_2",
+                "depart": 58.13
+            },
+            {
+                "vehicle_id": "bus_3248",
+                "type": "bus",
+                "lane": "E_0_1",
+                "depart": 58.47
+            },
+            {
+                "vehicle_id": "truck_3262",
+                "type": "truck",
+                "lane": "E_0_3",
+                "depart": 58.6
+            },
+            {
+                "vehicle_id": "car_3276",
+                "type": "car",
+                "lane": "N_1",
+                "depart": 58.87
+            },
+            {
+                "vehicle_id": "truck_3248",
+                "type": "truck",
+                "lane": "E_0_1",
+                "depart": 58.97
+            },
+            {
+                "vehicle_id": "car_3288",
+                "type": "car",
+                "lane": "E_0_1",
+                "depart": 59.07
+            }
+        ]
+    },
+    "00:01:00 - 00:01:05": {
+        "vehicle_counts": {
+            "truck": 9,
+            "bus": 4,
+            "car": 7
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "truck_3047",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 60.27
+            },
+            {
+                "vehicle_id": "truck_3197",
+                "type": "truck",
+                "lane": "E_0_2",
+                "depart": 60.37
+            },
+            {
+                "vehicle_id": "truck_1840",
+                "type": "truck",
+                "lane": "E_0_1",
+                "depart": 60.4
+            },
+            {
+                "vehicle_id": "truck_3349",
+                "type": "truck",
+                "lane": "E_0_1",
+                "depart": 60.53
+            },
+            {
+                "vehicle_id": "truck_3350",
+                "type": "truck",
+                "lane": "E_0_2",
+                "depart": 60.53
+            },
+            {
+                "vehicle_id": "truck_3276",
+                "type": "truck",
+                "lane": "N_0",
+                "depart": 60.63
+            },
+            {
+                "vehicle_id": "bus_3350",
+                "type": "bus",
+                "lane": "E_0_2",
+                "depart": 61.07
+            },
+            {
+                "vehicle_id": "bus_3262",
+                "type": "bus",
+                "lane": "W_3",
+                "depart": 62.1
+            },
+            {
+                "vehicle_id": "car_3473",
+                "type": "car",
+                "lane": "E_0_3",
+                "depart": 62.33
+            },
+            {
+                "vehicle_id": "bus_3047",
+                "type": "bus",
+                "lane": "I_1",
+                "depart": 62.8
+            },
+            {
+                "vehicle_id": "car_3507",
+                "type": "car",
+                "lane": "W_1_2",
+                "depart": 63.03
+            },
+            {
+                "vehicle_id": "car_3509",
+                "type": "car",
+                "lane": "W_3",
+                "depart": 63.1
+            },
+            {
+                "vehicle_id": "truck_3473",
+                "type": "truck",
+                "lane": "E_0_3",
+                "depart": 63.6
+            },
+            {
+                "vehicle_id": "truck_3541",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 63.67
+            },
+            {
+                "vehicle_id": "car_3542",
+                "type": "car",
+                "lane": "W_1_2",
+                "depart": 63.7
+            },
+            {
+                "vehicle_id": "car_3547",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 63.77
+            },
+            {
+                "vehicle_id": "car_3554",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 63.83
+            },
+            {
+                "vehicle_id": "car_3566",
+                "type": "car",
+                "lane": "E_0_2",
+                "depart": 63.93
+            },
+            {
+                "vehicle_id": "truck_3566",
+                "type": "truck",
+                "lane": "E_0_2",
+                "depart": 64.03
+            },
+            {
+                "vehicle_id": "bus_3588",
+                "type": "bus",
+                "lane": "E_0_1",
+                "depart": 64.37
+            }
+        ]
+    },
+    "00:01:05 - 00:01:10": {
+        "vehicle_counts": {
+            "car": 10,
+            "bus": 1,
+            "truck": 2
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "car_3642",
+                "type": "car",
+                "lane": "E_1_1",
+                "depart": 65.07
+            },
+            {
+                "vehicle_id": "car_3656",
+                "type": "car",
+                "lane": "W_1_2",
+                "depart": 65.23
+            },
+            {
+                "vehicle_id": "car_3713",
+                "type": "car",
+                "lane": "N_1",
+                "depart": 66.4
+            },
+            {
+                "vehicle_id": "bus_3733",
+                "type": "bus",
+                "lane": "E_0_2",
+                "depart": 66.77
+            },
+            {
+                "vehicle_id": "car_3734",
+                "type": "car",
+                "lane": "E_0_3",
+                "depart": 66.77
+            },
+            {
+                "vehicle_id": "car_3706",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 66.97
+            },
+            {
+                "vehicle_id": "car_3742",
+                "type": "car",
+                "lane": "E_0_0",
+                "depart": 67.0
+            },
+            {
+                "vehicle_id": "truck_3734",
+                "type": "truck",
+                "lane": "E_0_3",
+                "depart": 67.27
+            },
+            {
+                "vehicle_id": "truck_3752",
+                "type": "truck",
+                "lane": "E_0_3",
+                "depart": 67.3
+            },
+            {
+                "vehicle_id": "car_3769",
+                "type": "car",
+                "lane": "W_1_1",
+                "depart": 67.67
+            },
+            {
+                "vehicle_id": "car_3787",
+                "type": "car",
+                "lane": "W_1_1",
+                "depart": 67.87
+            },
+            {
+                "vehicle_id": "car_3836",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 68.63
+            },
+            {
+                "vehicle_id": "car_3870",
+                "type": "car",
+                "lane": "N_0",
+                "depart": 69.53
+            }
+        ]
+    },
+    "00:01:10 - 00:01:15": {
+        "vehicle_counts": {
+            "car": 13,
+            "bus": 1,
+            "truck": 3
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "car_3915",
+                "type": "car",
+                "lane": "W_3",
+                "depart": 70.43
+            },
+            {
+                "vehicle_id": "car_3919",
+                "type": "car",
+                "lane": "W_1_2",
+                "depart": 70.5
+            },
+            {
+                "vehicle_id": "car_4011",
+                "type": "car",
+                "lane": "E_0_0",
+                "depart": 72.53
+            },
+            {
+                "vehicle_id": "car_4012",
+                "type": "car",
+                "lane": "E_0_0",
+                "depart": 72.53
+            },
+            {
+                "vehicle_id": "car_4032",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 72.83
+            },
+            {
+                "vehicle_id": "car_4036",
+                "type": "car",
+                "lane": "E_0_3",
+                "depart": 72.87
+            },
+            {
+                "vehicle_id": "bus_4038",
+                "type": "bus",
+                "lane": "E_0_1",
+                "depart": 72.87
+            },
+            {
+                "vehicle_id": "car_4049",
+                "type": "car",
+                "lane": "N_0",
+                "depart": 73.07
+            },
+            {
+                "vehicle_id": "truck_4053",
+                "type": "truck",
+                "lane": "W_3",
+                "depart": 73.1
+            },
+            {
+                "vehicle_id": "truck_4032",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 73.27
+            },
+            {
+                "vehicle_id": "car_4060",
+                "type": "car",
+                "lane": "E_0_1",
+                "depart": 73.37
+            },
+            {
+                "vehicle_id": "car_4061",
+                "type": "car",
+                "lane": "E_0_2",
+                "depart": 73.37
+            },
+            {
+                "vehicle_id": "car_4075",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 73.77
+            },
+            {
+                "vehicle_id": "car_4118",
+                "type": "car",
+                "lane": "N_1_0",
+                "depart": 74.77
+            },
+            {
+                "vehicle_id": "truck_4127",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 74.83
+            },
+            {
+                "vehicle_id": "car_4127",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 74.87
+            },
+            {
+                "vehicle_id": "car_4139",
+                "type": "car",
+                "lane": "E_0_2",
+                "depart": 74.93
+            }
+        ]
+    },
+    "00:01:15 - 00:01:20": {
+        "vehicle_counts": {
+            "truck": 13,
+            "car": 26,
+            "bus": 2
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "truck_4147",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 75.07
+            },
+            {
+                "vehicle_id": "car_4162",
+                "type": "car",
+                "lane": "N_1_0",
+                "depart": 75.23
+            },
+            {
+                "vehicle_id": "car_4174",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 75.43
+            },
+            {
+                "vehicle_id": "truck_4060",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 76.37
+            },
+            {
+                "vehicle_id": "bus_4127",
+                "type": "bus",
+                "lane": "I_1",
+                "depart": 76.43
+            },
+            {
+                "vehicle_id": "truck_4162",
+                "type": "truck",
+                "lane": "N_1_0",
+                "depart": 76.7
+            },
+            {
+                "vehicle_id": "car_4048",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 77.0
+            },
+            {
+                "vehicle_id": "car_4038",
+                "type": "car",
+                "lane": "E_0_1",
+                "depart": 77.17
+            },
+            {
+                "vehicle_id": "bus_4260",
+                "type": "bus",
+                "lane": "I_1",
+                "depart": 77.23
+            },
+            {
+                "vehicle_id": "car_4274",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 77.57
+            },
+            {
+                "vehicle_id": "car_4299",
+                "type": "car",
+                "lane": "E_0_0",
+                "depart": 77.97
+            },
+            {
+                "vehicle_id": "car_4311",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 78.1
+            },
+            {
+                "vehicle_id": "car_4329",
+                "type": "car",
+                "lane": "E_1_2",
+                "depart": 78.3
+            },
+            {
+                "vehicle_id": "car_4337",
+                "type": "car",
+                "lane": "W_2",
+                "depart": 78.4
+            },
+            {
+                "vehicle_id": "car_4338",
+                "type": "car",
+                "lane": "W_1_2",
+                "depart": 78.4
+            },
+            {
+                "vehicle_id": "car_4350",
+                "type": "car",
+                "lane": "E_0_1",
+                "depart": 78.5
+            },
+            {
+                "vehicle_id": "truck_4299",
+                "type": "truck",
+                "lane": "E_0_0",
+                "depart": 78.57
+            },
+            {
+                "vehicle_id": "car_4359",
+                "type": "car",
+                "lane": "E_1_1",
+                "depart": 78.6
+            },
+            {
+                "vehicle_id": "truck_4012",
+                "type": "truck",
+                "lane": "E_0_0",
+                "depart": 78.63
+            },
+            {
+                "vehicle_id": "car_4387",
+                "type": "car",
+                "lane": "E_0_0",
+                "depart": 78.83
+            },
+            {
+                "vehicle_id": "car_4393",
+                "type": "car",
+                "lane": "W_1_3",
+                "depart": 78.83
+            },
+            {
+                "vehicle_id": "truck_4400",
+                "type": "truck",
+                "lane": "E_0_3",
+                "depart": 78.9
+            },
+            {
+                "vehicle_id": "truck_4337",
+                "type": "truck",
+                "lane": "W_2",
+                "depart": 79.0
+            },
+            {
+                "vehicle_id": "truck_4424",
+                "type": "truck",
+                "lane": "E_0_3",
+                "depart": 79.03
+            },
+            {
+                "vehicle_id": "car_4425",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 79.03
+            },
+            {
+                "vehicle_id": "car_4432",
+                "type": "car",
+                "lane": "N_1_0",
+                "depart": 79.07
+            },
+            {
+                "vehicle_id": "car_4436",
+                "type": "car",
+                "lane": "E_0_0",
+                "depart": 79.13
+            },
+            {
+                "vehicle_id": "truck_4438",
+                "type": "truck",
+                "lane": "W_3",
+                "depart": 79.13
+            },
+            {
+                "vehicle_id": "truck_4432",
+                "type": "truck",
+                "lane": "N_1_0",
+                "depart": 79.17
+            },
+            {
+                "vehicle_id": "car_4447",
+                "type": "car",
+                "lane": "E_0_0",
+                "depart": 79.2
+            },
+            {
+                "vehicle_id": "car_4448",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 79.2
+            },
+            {
+                "vehicle_id": "truck_4036",
+                "type": "truck",
+                "lane": "E_0_3",
+                "depart": 79.23
+            },
+            {
+                "vehicle_id": "truck_4455",
+                "type": "truck",
+                "lane": "E_0_0",
+                "depart": 79.27
+            },
+            {
+                "vehicle_id": "truck_4456",
+                "type": "truck",
+                "lane": "E_0_3",
+                "depart": 79.27
+            },
+            {
+                "vehicle_id": "car_4456",
+                "type": "car",
+                "lane": "E_0_3",
+                "depart": 79.3
+            },
+            {
+                "vehicle_id": "car_4479",
+                "type": "car",
+                "lane": "E_0_1",
+                "depart": 79.43
+            },
+            {
+                "vehicle_id": "car_4480",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 79.43
+            },
+            {
+                "vehicle_id": "car_4485",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 79.47
+            },
+            {
+                "vehicle_id": "car_4503",
+                "type": "car",
+                "lane": "W_1_2",
+                "depart": 79.67
+            },
+            {
+                "vehicle_id": "car_4511",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 79.93
+            },
+            {
+                "vehicle_id": "car_4514",
+                "type": "car",
+                "lane": "W_1_3",
+                "depart": 79.97
+            }
+        ]
+    },
+    "00:01:20 - 00:01:25": {
+        "vehicle_counts": {
+            "truck": 16,
+            "car": 18,
+            "bus": 3
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "truck_4522",
+                "type": "truck",
+                "lane": "E_0_0",
+                "depart": 80.1
+            },
+            {
+                "vehicle_id": "truck_4359",
+                "type": "truck",
+                "lane": "E_1_1",
+                "depart": 80.13
+            },
+            {
+                "vehicle_id": "car_4522",
+                "type": "car",
+                "lane": "E_0_0",
+                "depart": 80.13
+            },
+            {
+                "vehicle_id": "car_4535",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 80.2
+            },
+            {
+                "vehicle_id": "car_4548",
+                "type": "car",
+                "lane": "E_0_1",
+                "depart": 80.33
+            },
+            {
+                "vehicle_id": "car_4551",
+                "type": "car",
+                "lane": "E_0_3",
+                "depart": 80.37
+            },
+            {
+                "vehicle_id": "car_4556",
+                "type": "car",
+                "lane": "N_1",
+                "depart": 80.4
+            },
+            {
+                "vehicle_id": "truck_4564",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 80.5
+            },
+            {
+                "vehicle_id": "car_4564",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 80.53
+            },
+            {
+                "vehicle_id": "car_4586",
+                "type": "car",
+                "lane": "E_1_2",
+                "depart": 80.8
+            },
+            {
+                "vehicle_id": "truck_4623",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 81.0
+            },
+            {
+                "vehicle_id": "truck_4551",
+                "type": "truck",
+                "lane": "E_0_3",
+                "depart": 81.0
+            },
+            {
+                "vehicle_id": "car_4681",
+                "type": "car",
+                "lane": "N_0",
+                "depart": 81.4
+            },
+            {
+                "vehicle_id": "truck_4691",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 81.5
+            },
+            {
+                "vehicle_id": "truck_4548",
+                "type": "truck",
+                "lane": "E_0_1",
+                "depart": 81.7
+            },
+            {
+                "vehicle_id": "car_4734",
+                "type": "car",
+                "lane": "S_1_0",
+                "depart": 81.83
+            },
+            {
+                "vehicle_id": "bus_4714",
+                "type": "bus",
+                "lane": "E_1_2",
+                "depart": 81.93
+            },
+            {
+                "vehicle_id": "car_4761",
+                "type": "car",
+                "lane": "E_1_2",
+                "depart": 82.07
+            },
+            {
+                "vehicle_id": "truck_4773",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 82.17
+            },
+            {
+                "vehicle_id": "car_4773",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 82.2
+            },
+            {
+                "vehicle_id": "truck_4792",
+                "type": "truck",
+                "lane": "E_0_1",
+                "depart": 82.43
+            },
+            {
+                "vehicle_id": "car_4793",
+                "type": "car",
+                "lane": "E_0_0",
+                "depart": 82.5
+            },
+            {
+                "vehicle_id": "car_4808",
+                "type": "car",
+                "lane": "W_1_2",
+                "depart": 82.73
+            },
+            {
+                "vehicle_id": "truck_4485",
+                "type": "truck",
+                "lane": "W_3",
+                "depart": 83.2
+            },
+            {
+                "vehicle_id": "truck_4793",
+                "type": "truck",
+                "lane": "E_0_0",
+                "depart": 83.27
+            },
+            {
+                "vehicle_id": "truck_4854",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 83.27
+            },
+            {
+                "vehicle_id": "car_4889",
+                "type": "car",
+                "lane": "W_3",
+                "depart": 83.53
+            },
+            {
+                "vehicle_id": "car_4905",
+                "type": "car",
+                "lane": "E_0_3",
+                "depart": 83.63
+            },
+            {
+                "vehicle_id": "bus_4922",
+                "type": "bus",
+                "lane": "E_1_1",
+                "depart": 83.87
+            },
+            {
+                "vehicle_id": "car_4940",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 83.97
+            },
+            {
+                "vehicle_id": "truck_4905",
+                "type": "truck",
+                "lane": "E_0_3",
+                "depart": 83.97
+            },
+            {
+                "vehicle_id": "car_4623",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 84.23
+            },
+            {
+                "vehicle_id": "truck_4966",
+                "type": "truck",
+                "lane": "E_0_3",
+                "depart": 84.23
+            },
+            {
+                "vehicle_id": "truck_4997",
+                "type": "truck",
+                "lane": "E_0_3",
+                "depart": 84.67
+            },
+            {
+                "vehicle_id": "truck_5017",
+                "type": "truck",
+                "lane": "W_0_0",
+                "depart": 84.8
+            },
+            {
+                "vehicle_id": "bus_4623",
+                "type": "bus",
+                "lane": "I_1",
+                "depart": 84.8
+            },
+            {
+                "vehicle_id": "car_1840",
+                "type": "car",
+                "lane": "E_1_0",
+                "depart": 84.9
+            }
+        ]
+    },
+    "00:01:25 - 00:01:30": {
+        "vehicle_counts": {
+            "car": 14,
+            "bus": 1,
+            "truck": 12
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "car_4854",
+                "type": "car",
+                "lane": "W_0_0",
+                "depart": 85.0
+            },
+            {
+                "vehicle_id": "bus_4793",
+                "type": "bus",
+                "lane": "I_1",
+                "depart": 85.03
+            },
+            {
+                "vehicle_id": "truck_5055",
+                "type": "truck",
+                "lane": "N_3",
+                "depart": 85.13
+            },
+            {
+                "vehicle_id": "car_5087",
+                "type": "car",
+                "lane": "E_0_3",
+                "depart": 85.47
+            },
+            {
+                "vehicle_id": "car_5110",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 85.73
+            },
+            {
+                "vehicle_id": "car_5121",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 85.8
+            },
+            {
+                "vehicle_id": "car_5138",
+                "type": "car",
+                "lane": "E_1_1",
+                "depart": 85.97
+            },
+            {
+                "vehicle_id": "truck_4038",
+                "type": "truck",
+                "lane": "E_1_2",
+                "depart": 86.23
+            },
+            {
+                "vehicle_id": "truck_4940",
+                "type": "truck",
+                "lane": "W_3",
+                "depart": 86.67
+            },
+            {
+                "vehicle_id": "car_5226",
+                "type": "car",
+                "lane": "E_1_1",
+                "depart": 86.83
+            },
+            {
+                "vehicle_id": "car_5241",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 87.07
+            },
+            {
+                "vehicle_id": "car_5245",
+                "type": "car",
+                "lane": "N_0",
+                "depart": 87.1
+            },
+            {
+                "vehicle_id": "truck_5249",
+                "type": "truck",
+                "lane": "W_0_0",
+                "depart": 87.13
+            },
+            {
+                "vehicle_id": "car_5262",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 87.3
+            },
+            {
+                "vehicle_id": "car_5290",
+                "type": "car",
+                "lane": "E_0_3",
+                "depart": 87.6
+            },
+            {
+                "vehicle_id": "truck_5308",
+                "type": "truck",
+                "lane": "E_0_3",
+                "depart": 87.9
+            },
+            {
+                "vehicle_id": "truck_5311",
+                "type": "truck",
+                "lane": "E_0_3",
+                "depart": 88.03
+            },
+            {
+                "vehicle_id": "truck_5318",
+                "type": "truck",
+                "lane": "E_0_3",
+                "depart": 88.13
+            },
+            {
+                "vehicle_id": "car_5318",
+                "type": "car",
+                "lane": "E_0_3",
+                "depart": 88.23
+            },
+            {
+                "vehicle_id": "truck_5348",
+                "type": "truck",
+                "lane": "E_0_3",
+                "depart": 88.77
+            },
+            {
+                "vehicle_id": "car_5365",
+                "type": "car",
+                "lane": "E_0_3",
+                "depart": 89.1
+            },
+            {
+                "vehicle_id": "truck_5365",
+                "type": "truck",
+                "lane": "E_0_3",
+                "depart": 89.13
+            },
+            {
+                "vehicle_id": "car_5368",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 89.13
+            },
+            {
+                "vehicle_id": "truck_5398",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 89.5
+            },
+            {
+                "vehicle_id": "car_5401",
+                "type": "car",
+                "lane": "W_1_2",
+                "depart": 89.67
+            },
+            {
+                "vehicle_id": "truck_5392",
+                "type": "truck",
+                "lane": "W_2",
+                "depart": 89.87
+            },
+            {
+                "vehicle_id": "truck_5110",
+                "type": "truck",
+                "lane": "W_3",
+                "depart": 89.9
+            }
+        ]
+    },
+    "00:01:30 - 00:01:35": {
+        "vehicle_counts": {
+            "car": 18,
+            "truck": 11
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "car_5417",
+                "type": "car",
+                "lane": "N_1",
+                "depart": 90.03
+            },
+            {
+                "vehicle_id": "car_5428",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 90.4
+            },
+            {
+                "vehicle_id": "car_5460",
+                "type": "car",
+                "lane": "W_1_2",
+                "depart": 90.77
+            },
+            {
+                "vehicle_id": "truck_5460",
+                "type": "truck",
+                "lane": "W_1_2",
+                "depart": 91.13
+            },
+            {
+                "vehicle_id": "truck_5443",
+                "type": "truck",
+                "lane": "W_1_2",
+                "depart": 91.33
+            },
+            {
+                "vehicle_id": "car_5496",
+                "type": "car",
+                "lane": "W_0_0",
+                "depart": 91.47
+            },
+            {
+                "vehicle_id": "car_5550",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 92.3
+            },
+            {
+                "vehicle_id": "truck_5566",
+                "type": "truck",
+                "lane": "W_1_2",
+                "depart": 92.5
+            },
+            {
+                "vehicle_id": "car_5572",
+                "type": "car",
+                "lane": "W_2",
+                "depart": 92.67
+            },
+            {
+                "vehicle_id": "car_5573",
+                "type": "car",
+                "lane": "N_1_0",
+                "depart": 92.7
+            },
+            {
+                "vehicle_id": "truck_5572",
+                "type": "truck",
+                "lane": "W_2",
+                "depart": 92.8
+            },
+            {
+                "vehicle_id": "car_5587",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 93.2
+            },
+            {
+                "vehicle_id": "truck_5588",
+                "type": "truck",
+                "lane": "W_1_2",
+                "depart": 93.2
+            },
+            {
+                "vehicle_id": "car_5588",
+                "type": "car",
+                "lane": "W_1_2",
+                "depart": 93.27
+            },
+            {
+                "vehicle_id": "car_5598",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 93.37
+            },
+            {
+                "vehicle_id": "car_5600",
+                "type": "car",
+                "lane": "W_2",
+                "depart": 93.43
+            },
+            {
+                "vehicle_id": "truck_5603",
+                "type": "truck",
+                "lane": "W_1_2",
+                "depart": 93.53
+            },
+            {
+                "vehicle_id": "car_5610",
+                "type": "car",
+                "lane": "E_0_3",
+                "depart": 93.73
+            },
+            {
+                "vehicle_id": "car_5615",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 93.93
+            },
+            {
+                "vehicle_id": "car_5621",
+                "type": "car",
+                "lane": "W_1_2",
+                "depart": 94.07
+            },
+            {
+                "vehicle_id": "truck_5621",
+                "type": "truck",
+                "lane": "W_1_2",
+                "depart": 94.1
+            },
+            {
+                "vehicle_id": "car_5626",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 94.17
+            },
+            {
+                "vehicle_id": "truck_5599",
+                "type": "truck",
+                "lane": "W_1_2",
+                "depart": 94.37
+            },
+            {
+                "vehicle_id": "truck_5640",
+                "type": "truck",
+                "lane": "E_0_3",
+                "depart": 94.37
+            },
+            {
+                "vehicle_id": "car_5641",
+                "type": "car",
+                "lane": "W_3",
+                "depart": 94.37
+            },
+            {
+                "vehicle_id": "car_5658",
+                "type": "car",
+                "lane": "W_1_1",
+                "depart": 94.7
+            },
+            {
+                "vehicle_id": "truck_5615",
+                "type": "truck",
+                "lane": "N_3",
+                "depart": 94.73
+            },
+            {
+                "vehicle_id": "car_5666",
+                "type": "car",
+                "lane": "W_1_2",
+                "depart": 94.8
+            },
+            {
+                "vehicle_id": "truck_5641",
+                "type": "truck",
+                "lane": "W_3",
+                "depart": 94.87
+            }
+        ]
+    },
+    "00:01:35 - 00:01:40": {
+        "vehicle_counts": {
+            "truck": 5,
+            "car": 8
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "truck_5626",
+                "type": "truck",
+                "lane": "W_0_0",
+                "depart": 95.2
+            },
+            {
+                "vehicle_id": "truck_5666",
+                "type": "truck",
+                "lane": "W_1_2",
+                "depart": 95.2
+            },
+            {
+                "vehicle_id": "car_5719",
+                "type": "car",
+                "lane": "N_1",
+                "depart": 95.67
+            },
+            {
+                "vehicle_id": "car_5727",
+                "type": "car",
+                "lane": "E_0_3",
+                "depart": 95.8
+            },
+            {
+                "vehicle_id": "car_5781",
+                "type": "car",
+                "lane": "N_1",
+                "depart": 96.57
+            },
+            {
+                "vehicle_id": "truck_5791",
+                "type": "truck",
+                "lane": "W_2",
+                "depart": 96.73
+            },
+            {
+                "vehicle_id": "car_5791",
+                "type": "car",
+                "lane": "W_2",
+                "depart": 96.77
+            },
+            {
+                "vehicle_id": "car_5795",
+                "type": "car",
+                "lane": "W_1_1",
+                "depart": 96.8
+            },
+            {
+                "vehicle_id": "truck_5587",
+                "type": "truck",
+                "lane": "W_2",
+                "depart": 96.8
+            },
+            {
+                "vehicle_id": "car_5813",
+                "type": "car",
+                "lane": "W_1_2",
+                "depart": 97.4
+            },
+            {
+                "vehicle_id": "truck_5819",
+                "type": "truck",
+                "lane": "E_0_3",
+                "depart": 97.7
+            },
+            {
+                "vehicle_id": "car_5836",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 98.1
+            },
+            {
+                "vehicle_id": "car_5869",
+                "type": "car",
+                "lane": "N_1",
+                "depart": 99.0
+            }
+        ]
+    },
+    "00:01:40 - 00:01:45": {
+        "vehicle_counts": {
+            "car": 14,
+            "truck": 9,
+            "bus": 2
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "car_5906",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 100.43
+            },
+            {
+                "vehicle_id": "car_5914",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 100.57
+            },
+            {
+                "vehicle_id": "car_5967",
+                "type": "car",
+                "lane": "W_1_1",
+                "depart": 101.57
+            },
+            {
+                "vehicle_id": "truck_5967",
+                "type": "truck",
+                "lane": "W_1_1",
+                "depart": 101.63
+            },
+            {
+                "vehicle_id": "truck_6010",
+                "type": "truck",
+                "lane": "W_1_1",
+                "depart": 102.33
+            },
+            {
+                "vehicle_id": "car_6010",
+                "type": "car",
+                "lane": "W_1_1",
+                "depart": 102.4
+            },
+            {
+                "vehicle_id": "car_5984",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 102.43
+            },
+            {
+                "vehicle_id": "car_6020",
+                "type": "car",
+                "lane": "N_1",
+                "depart": 102.53
+            },
+            {
+                "vehicle_id": "truck_6026",
+                "type": "truck",
+                "lane": "W_1_1",
+                "depart": 102.63
+            },
+            {
+                "vehicle_id": "bus_4438",
+                "type": "bus",
+                "lane": "I_1",
+                "depart": 102.67
+            },
+            {
+                "vehicle_id": "car_6030",
+                "type": "car",
+                "lane": "W_1_1",
+                "depart": 102.77
+            },
+            {
+                "vehicle_id": "truck_5719",
+                "type": "truck",
+                "lane": "N_1",
+                "depart": 103.0
+            },
+            {
+                "vehicle_id": "car_6041",
+                "type": "car",
+                "lane": "E_0_3",
+                "depart": 103.1
+            },
+            {
+                "vehicle_id": "truck_6045",
+                "type": "truck",
+                "lane": "N_1",
+                "depart": 103.17
+            },
+            {
+                "vehicle_id": "bus_5719",
+                "type": "bus",
+                "lane": "N_0",
+                "depart": 103.6
+            },
+            {
+                "vehicle_id": "car_6065",
+                "type": "car",
+                "lane": "N_0",
+                "depart": 103.67
+            },
+            {
+                "vehicle_id": "car_6086",
+                "type": "car",
+                "lane": "W_1_2",
+                "depart": 103.97
+            },
+            {
+                "vehicle_id": "car_6089",
+                "type": "car",
+                "lane": "N_0",
+                "depart": 104.03
+            },
+            {
+                "vehicle_id": "car_6101",
+                "type": "car",
+                "lane": "N_0",
+                "depart": 104.4
+            },
+            {
+                "vehicle_id": "truck_6102",
+                "type": "truck",
+                "lane": "W_1_2",
+                "depart": 104.53
+            },
+            {
+                "vehicle_id": "truck_6107",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 104.57
+            },
+            {
+                "vehicle_id": "truck_6114",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 104.67
+            },
+            {
+                "vehicle_id": "truck_6127",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 104.8
+            },
+            {
+                "vehicle_id": "car_6127",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 104.83
+            },
+            {
+                "vehicle_id": "car_6128",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 104.83
+            }
+        ]
+    },
+    "00:01:45 - 00:01:50": {
+        "vehicle_counts": {
+            "car": 22,
+            "truck": 19
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "car_6137",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 105.07
+            },
+            {
+                "vehicle_id": "car_6138",
+                "type": "car",
+                "lane": "W_1_1",
+                "depart": 105.1
+            },
+            {
+                "vehicle_id": "truck_6142",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 105.2
+            },
+            {
+                "vehicle_id": "truck_5984",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 105.2
+            },
+            {
+                "vehicle_id": "truck_6147",
+                "type": "truck",
+                "lane": "W_1_1",
+                "depart": 105.37
+            },
+            {
+                "vehicle_id": "car_6147",
+                "type": "car",
+                "lane": "W_1_1",
+                "depart": 105.4
+            },
+            {
+                "vehicle_id": "car_6156",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 105.57
+            },
+            {
+                "vehicle_id": "truck_6156",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 105.6
+            },
+            {
+                "vehicle_id": "truck_6128",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 105.6
+            },
+            {
+                "vehicle_id": "car_6165",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 105.7
+            },
+            {
+                "vehicle_id": "truck_6190",
+                "type": "truck",
+                "lane": "W_1_1",
+                "depart": 105.93
+            },
+            {
+                "vehicle_id": "car_6190",
+                "type": "car",
+                "lane": "W_1_1",
+                "depart": 105.97
+            },
+            {
+                "vehicle_id": "car_6192",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 105.97
+            },
+            {
+                "vehicle_id": "truck_6089",
+                "type": "truck",
+                "lane": "N_0",
+                "depart": 106.03
+            },
+            {
+                "vehicle_id": "truck_6200",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 106.13
+            },
+            {
+                "vehicle_id": "car_6200",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 106.17
+            },
+            {
+                "vehicle_id": "car_6214",
+                "type": "car",
+                "lane": "N_1",
+                "depart": 106.53
+            },
+            {
+                "vehicle_id": "truck_6215",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 106.53
+            },
+            {
+                "vehicle_id": "car_6216",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 106.6
+            },
+            {
+                "vehicle_id": "car_6229",
+                "type": "car",
+                "lane": "W_1_3",
+                "depart": 106.93
+            },
+            {
+                "vehicle_id": "truck_6233",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 107.03
+            },
+            {
+                "vehicle_id": "car_6248",
+                "type": "car",
+                "lane": "W_1_2",
+                "depart": 107.3
+            },
+            {
+                "vehicle_id": "truck_6248",
+                "type": "truck",
+                "lane": "W_1_2",
+                "depart": 107.33
+            },
+            {
+                "vehicle_id": "car_6263",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 107.47
+            },
+            {
+                "vehicle_id": "car_6281",
+                "type": "car",
+                "lane": "E_1_1",
+                "depart": 107.8
+            },
+            {
+                "vehicle_id": "truck_6285",
+                "type": "truck",
+                "lane": "E_1_1",
+                "depart": 107.9
+            },
+            {
+                "vehicle_id": "truck_6291",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 107.97
+            },
+            {
+                "vehicle_id": "car_6304",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 108.3
+            },
+            {
+                "vehicle_id": "car_6305",
+                "type": "car",
+                "lane": "E_1_1",
+                "depart": 108.3
+            },
+            {
+                "vehicle_id": "truck_6314",
+                "type": "truck",
+                "lane": "W_1_1",
+                "depart": 108.5
+            },
+            {
+                "vehicle_id": "car_6316",
+                "type": "car",
+                "lane": "E_1_1",
+                "depart": 108.57
+            },
+            {
+                "vehicle_id": "truck_6325",
+                "type": "truck",
+                "lane": "W_1_2",
+                "depart": 108.7
+            },
+            {
+                "vehicle_id": "truck_6328",
+                "type": "truck",
+                "lane": "E_1_1",
+                "depart": 108.73
+            },
+            {
+                "vehicle_id": "car_6346",
+                "type": "car",
+                "lane": "E_1_1",
+                "depart": 108.87
+            },
+            {
+                "vehicle_id": "truck_6346",
+                "type": "truck",
+                "lane": "E_1_1",
+                "depart": 108.9
+            },
+            {
+                "vehicle_id": "car_6367",
+                "type": "car",
+                "lane": "E_1_1",
+                "depart": 109.1
+            },
+            {
+                "vehicle_id": "car_6391",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 109.37
+            },
+            {
+                "vehicle_id": "car_6397",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 109.43
+            },
+            {
+                "vehicle_id": "truck_6404",
+                "type": "truck",
+                "lane": "W_1_2",
+                "depart": 109.5
+            },
+            {
+                "vehicle_id": "car_6413",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 109.63
+            },
+            {
+                "vehicle_id": "truck_6391",
+                "type": "truck",
+                "lane": "I_1",
+                "depart": 109.63
+            }
+        ]
+    },
+    "00:01:50 - 00:01:55": {
+        "vehicle_counts": {
+            "truck": 5,
+            "car": 3
+        },
+        "vehicle_departures": [
+            {
+                "vehicle_id": "truck_6438",
+                "type": "truck",
+                "lane": "W_1_2",
+                "depart": 110.0
+            },
+            {
+                "vehicle_id": "car_6441",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 110.0
+            },
+            {
+                "vehicle_id": "car_6450",
+                "type": "car",
+                "lane": "N_1",
+                "depart": 110.23
+            },
+            {
+                "vehicle_id": "truck_6453",
+                "type": "truck",
+                "lane": "W_1_2",
+                "depart": 110.27
+            },
+            {
+                "vehicle_id": "truck_6462",
+                "type": "truck",
+                "lane": "W_1_2",
+                "depart": 110.4
+            },
+            {
+                "vehicle_id": "truck_6488",
+                "type": "truck",
+                "lane": "W_1_2",
+                "depart": 110.87
+            },
+            {
+                "vehicle_id": "car_6490",
+                "type": "car",
+                "lane": "I_1",
+                "depart": 110.9
+            },
+            {
+                "vehicle_id": "truck_6495",
+                "type": "truck",
+                "lane": "W_1_2",
+                "depart": 111.07
+            }
+        ]
+    }
+}
